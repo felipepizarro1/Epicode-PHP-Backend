@@ -1,0 +1,15 @@
+{
+    "name": "fipiz/esercizio-umberto",
+    "autoload": {
+        "psr-4": {
+            "Fipiz\\EsercizioUmberto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe",
+            "email": "fpizarro.ux@gmail.com"
+        }
+    ],
+    "require": {}
+}
